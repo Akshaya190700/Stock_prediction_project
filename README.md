@@ -5,6 +5,8 @@
 
 This project is a Stock Price Prediction Web App that leverages LSTM (Long Short-Term Memory) networks for time-series forecasting. The application is built using Flask as the backend and allows users to input a stock ticker, visualize stock trends, and download historical stock data.
 
+![image](candlestick.png)
+
 # Features
 
 Stock Price Forecasting: Predict future stock prices based on historical trends using LSTM.
@@ -92,6 +94,9 @@ HTML, CSS, JavaScript
 5. Visualization: Displays EMA trends and predictions using Matplotlib.
 
 # Sample Prediction Output
+
+Frondend:
+   ![image](frondend.png)
 
 EMA Chart:
  ![100 & 200-Day EMA Chart](static/ema200.png)
